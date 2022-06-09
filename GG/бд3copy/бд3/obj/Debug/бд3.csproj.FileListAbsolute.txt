@@ -1,0 +1,65 @@
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Scienceworks.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Addworks.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\bin\Debug\бд3.exe.config
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\bin\Debug\бд3.exe
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\bin\Debug\бд3.pdb
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.exe
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.pdb
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Publisher.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Autors.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Addautors.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.UDK.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Addpublisher.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Adddegree.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Addpoj.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Degree.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Poj.resources
+C:\Users\user\OneDrive\Рабочий стол\прога практика\бд3\бд3\obj\Debug\бд3.Addudk.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\bin\Debug\бд3.exe.config
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\bin\Debug\бд3.exe
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\bin\Debug\бд3.pdb
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Addautors.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Adddegree.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Addpoj.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Addpublisher.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Autors.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Degree.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Poj.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Publisher.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Scienceworks.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.UDK.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Addudk.resources
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.exe
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.pdb
+C:\Users\user\OneDrive\Рабочий стол\бд3copy\бд3\obj\Debug\бд3.Addworks.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\bin\Debug\бд3.exe.config
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\bin\Debug\бд3.exe
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\bin\Debug\бд3.pdb
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Addautors.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Adddegree.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Addpoj.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Addpublisher.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Addworks.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Autors.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Degree.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Poj.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Publisher.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Scienceworks.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Properties.Resources.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.UDK.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.Addudk.resources
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.exe
+C:\Users\Михаил\Desktop\GG\бд3copy\бд3\obj\Debug\бд3.pdb
